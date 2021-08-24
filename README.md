@@ -27,3 +27,10 @@ Feel free to use any other text editor you want, but this is what we will be usi
 We recommend you use Google Chrome as your browser during the workshop as it has useful developer tools that we will be using. The workshop does not require you to use Google Chrome, any other browser is also fine.
 
 - Download google chrome at https://www.google.com/chrome/
+
+## Repo structure
+
+- [Images for Figma](/Images)
+- [Figma Example Link](https://www.figma.com/file/i8Fk36Za6DfCQk3lHZthe9/devs-ui-workshop?node-id=22%3A70)
+- [Template HTML + CSS](/Empty%20Template)
+- [Final Product HTML + CSS](/Final%20Product)
