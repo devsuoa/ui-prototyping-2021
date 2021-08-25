@@ -28,7 +28,7 @@ We recommend you use Google Chrome as your browser during the workshop as it has
 
 - Download google chrome at https://www.google.com/chrome/
 
-## Repo structure
+## Content
 
 - [Images for Figma](/Images)
 - [Figma](https://www.figma.com/)
