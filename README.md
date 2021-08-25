@@ -8,10 +8,10 @@ This workshop requires you to download some files and install some software on y
 
 ## Downloads
 
-1. [Download this github repository.] Look for the little green code button on this page. Click on it and select "Download zip". This will downlaod a zip file to your comptuer. Unzip this file once the download is complete and save it to your Desktop. This folder contains all the files we will be using in the workshop!
-2. [Make a Figma account.] Navigate to https://figma.com and sign up to create a free Figma account. We recommend you use your university email as you can take advantage of student offers. Otherwise any email address is fine.
+1. [Download this github repository]. Look for the little green code button on this page. Click on it and select "Download zip". This will downlaod a zip file to your comptuer. Unzip this file once the download is complete and save it to your Desktop. This folder contains all the files we will be using in the workshop!
+2. [Make a Figma account]. Navigate to https://figma.com and sign up to create a free Figma account. We recommend you use your university email as you can take advantage of student offers. Otherwise any email address is fine.
 
-## Installion
+## Installs
 
 ### Visual Studio Code
 
